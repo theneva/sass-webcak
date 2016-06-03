@@ -1,0 +1,11 @@
+{
+  "name": "sass-bweacp",
+  "scripts": {
+    "sass": "gulp sass",
+    "dev": "gulp sass:watch"
+  },
+  "devDependencies": {
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
